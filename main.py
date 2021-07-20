@@ -18,19 +18,24 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a google translator telegram bot. As Disney Team | ml Project By @disneygrou And @disneygroubackup
+Hello {}, I am a google translator telegram bot.Project By @disneygrou And @disneygroubackup To Know How To Use Me Do /help.
 
 Made by @doreamonfans2
 """
 HELP_TEXT = """
 - Just send a text with language code
 
-example :- `Disney Team | ml`
+example :- `Disney Team | en    for english`
+           'Disney Team | ml for malayalam'
+           'Disney Team | te for telugu'
+           'Disney Team | ta for Tamil'
+Still more feature adding 😉
+Any doubt contact @doreamonfans1 
 
 Made by @doreamonfans2
 """
 ABOUT_TEXT = """
-- **Bot :** `Translator Bot`
+- **Bot :** `Disney Team Google Translator Bot`
 - **Creator :** [Doreamon Fans](https://telegram.me/Doreamonfans2)
 - **Channel :** [Disney Team](https://telegram.me/Disneygrou)
 - **Developer :** [Doreamon Fans 1](https://telegram.me/doreamonfans1)
