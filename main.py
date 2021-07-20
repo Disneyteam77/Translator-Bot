@@ -26,9 +26,9 @@ HELP_TEXT = """
 - Just send a text with language code
 
 example :- `Disney Team | en    for english`
-           'Disney Team | ml for malayalam'
-           'Disney Team | te for telugu'
-           'Disney Team | ta for Tamil'
+           `Disney Team | ml for malayalam`
+           `Disney Team | te for telugu`
+           `Disney Team | ta for Tamil`
 Still more feature adding 😉
 Any doubt contact @doreamonfans1 
 
